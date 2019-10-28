@@ -3,7 +3,7 @@
 [[instances]]
 name = "Personas & Profiles"
 id = "__personas-profiles"
-dna_hash = "QmTnEETTsRD7UEt4sHxZ1KKfFQVFxj34s8C18AcSeVqCsq"
+dna_hash = "QmRemRdForWNqsGJHhjsC1qGx3ChbP9wXMN7VTzLZ2d9UW"
 # Optional, might also be retrieved from hchc via hash long-term
 uri = "https://github.com/holochain/identity-manager/releases/download/0.1.9/personas-profiles.dna.json"
 
