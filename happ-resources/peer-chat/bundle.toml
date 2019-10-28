@@ -3,7 +3,7 @@
 [[instances]]
 name = "Personas & Profiles"
 id = "__personas-profiles"
-dna_hash = "QmUb9qzjm2F2PJCaJDT9ue9YvKak4cEBw77fWSqpHr9pvY"
+dna_hash = "QmTnEETTsRD7UEt4sHxZ1KKfFQVFxj34s8C18AcSeVqCsq"
 # Optional, might also be retrieved from hchc via hash long-term
 uri = "https://github.com/holochain/identity-manager/releases/download/0.1.9/personas-profiles.dna.json"
 
@@ -13,7 +13,7 @@ agent_id = "${AGENT_ID}"
 [[instances]]
 name = "Peer Chat Public"
 id = "__peer-chat-public"
-dna_hash = "QmcJBG4Z5qz1q4zhgJwF3xmmqKaobW7i5wL27QYGKz57aY"
+dna_hash = "QmeXdDhkKUq86uWt44END8DuqRyYQCGp4U66f5hdX7LVaa"
 uri = "https://github.com/holochain/peer-chat/releases/download/0.016/peer-chat.dna.json"
 
 [[bridges]]
