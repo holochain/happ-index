@@ -1,0 +1,21 @@
+bridges = []
+
+# A declaration of an instance that this hApp needs to have installed.
+# `name` here is just an internal name to reference the given DNA inside the rest of this bundle.
+[[instances]]
+name = "Acorn"
+id = "__acorn"
+dna_hash = "QmPNP2J6bPcMPADmcTcQpAHxWjDuiPenyp9jVhzKECGbnT"
+# Optional, might also be retrieved from hchc via hash long-term
+uri = "https://github.com/Connoropolous/redesigned-disco/raw/master/acorn-hc.dna.json"
+
+[[UIs]]
+name = "Acorn UI"
+id = "acorn-ui"
+ui_bundle_hash = "Qm34abcde"
+# Optional, might also be retrieved from hchc via hash long-term
+uri = "https://github.com/Connoropolous/redesigned-disco/raw/master/acorn-ui.zip"
+
+[[UIs.instance_references]]
+ui_handle = "acorn"
+instance_id = "__acorn"
