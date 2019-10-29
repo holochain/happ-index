@@ -6,5 +6,13 @@
     "icon": null,
     "screenshot": "https://raw.githubusercontent.com/holochain/peer-chat/develop/doc/screen.png",
     "description": "A simple chat app designed to get new users up, running and developing on Holochain"
+  },
+  {
+    "name": "Acorn Project Management",
+    "directory": "acorn",
+    "github": "https://github.com/h-be/acorn-hc",
+    "icon": null,
+    "screenshot": "...",
+    "description": "..."
   }
 ]
