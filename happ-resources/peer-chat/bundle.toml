@@ -3,9 +3,9 @@
 [[instances]]
 name = "Personas & Profiles"
 id = "__personas-profiles"
-dna_hash = "QmRemRdForWNqsGJHhjsC1qGx3ChbP9wXMN7VTzLZ2d9UW"
+dna_hash = "QmSQLhj5oURcL7ZSJ5kM7M7TEYxYeUSpY9UJavDLgZzuri"
 # Optional, might also be retrieved from hchc via hash long-term
-uri = "https://github.com/holochain/identity-manager/releases/download/0.1.9/personas-profiles.dna.json"
+uri = "https://github.com/holochain/identity-manager/releases/download/v0.2.0/personas-profiles.dna.json"
 
 [instances.dna_properties]
 agent_id = "${AGENT_ID}"
@@ -13,8 +13,8 @@ agent_id = "${AGENT_ID}"
 [[instances]]
 name = "Peer Chat Public"
 id = "__peer-chat-public"
-dna_hash = "QmeXdDhkKUq86uWt44END8DuqRyYQCGp4U66f5hdX7LVaa"
-uri = "https://github.com/holochain/peer-chat/releases/download/0.016/peer-chat.dna.json"
+dna_hash = "QmakmeiLMDFzN54CBUSk2UtvyYEUVdnLB6JPg2LLQ3TTrH"
+uri = "https://github.com/holochain/peer-chat/releases/download/v0.0.17/peer-chat.dna.json"
 
 [[bridges]]
 handle = "p-p-bridge"
@@ -27,7 +27,7 @@ name = "Peer Chat"
 id = "peer-chat-ui"
 ui_bundle_hash = "Qm34abcde"
 # Optional, might also be retrieved from hchc via hash long-term
-uri = "https://github.com/holochain/peer-chat/releases/download/0.016/peer-chat-ui.zip"
+uri = "https://github.com/holochain/peer-chat/releases/download/v0.0.17/peer-chat-ui.zip"
 
 # "__peer-chat" is the instance identifier in this config (declared above)
 # that needs to be linked to the handle "peer-chat" which is used inside
@@ -42,7 +42,7 @@ name = "Identity Manager"
 id = "identity-manager-ui"
 ui-bundle-hash = "Qm34abcde"
 # Optional, might also be retrieved from hchc via hash long-term
-uri = "https://github.com/holochain/identity-manager/releases/download/0.1.9/identity-manager-ui.zip"
+uri = "https://github.com/holochain/identity-manager/releases/download/v0.2.0/identity-manager-ui.zip"
 
 [[UIs.instance_references]]
 ui_handle = "personas-profiles"
