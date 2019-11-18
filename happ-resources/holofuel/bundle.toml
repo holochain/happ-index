@@ -1,0 +1,17 @@
+bridges = []
+
+[[instances]]
+name = "HoloFuel"
+id = "__holofuel"
+dna_hash = "QmWBZ9593cVRXz6cYzQSWFx5DyrNVo55hkXWUssaycSdfv"
+uri = "https://github.com/holochain/holofuel-bundle/releases/download/v0.1.0/holofuel.dna.json"
+
+[[UIs]]
+name = "HoloFuel UI"
+id = "holofuel-ui"
+ui_bundle_hash = "Qm34abcde"
+uri = "https://github.com/holochain/holofuel-bundle/releases/download/v0.1.0/ui.zip"
+
+[[UIs.instance_references]]
+ui_handle = "holofuel"
+instance_id = "__holofuel"
