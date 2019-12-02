@@ -3,7 +3,7 @@ bridges = []
 [[instances]]
 name = "Basic Chat Public"
 id = "__basic-chat-public"
-dna_hash = "QmYNDZKCy9RFNwAbLxzUkyXE8qveG8Sh4NG4UHunijZREh"
+dna_hash = "QmXWUEQwuoG7TqNBMy6GZT9eP83BsY25juLm1zqzmGgHVw"
 uri = "https://github.com/holochain/basic-chat/releases/download/v0.1.2/basic-chat.dna.json"
 
 [[UIs]]
