@@ -22,5 +22,13 @@
     "icon": null,
     "screenshot": "https://raw.githubusercontent.com/holochain/peer-chat/develop/doc/screen.png",
     "description": "A simple chat app designed to get new users up, running and developing on Holochain"
+  },
+  {
+    "name": "HoloFuel",
+    "directory": "holofuel",
+    "github": "https://github.com/Holo-Host/hp-admin",
+    "icon": null,
+    "screenshot": "https://lh5.googleusercontent.com/sxk53rtSZTc3Ct1i59T-elhDbEVuyEMpHjW6bkZN1UyXLkQUcYEpegTTSJMEsIgo-FFXC-hsjymjsjK1WFsdwovPkgfVWLnPAZ7mWtgzhhVsDlig4iawsbn3RnkQsX-3LUOsFA9B",
+    "description": "A clean UI that connects to HoloFuel, the micro-currency that powers the Holo Hosting network"
   }
 ]
