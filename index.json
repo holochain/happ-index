@@ -36,7 +36,7 @@
     "directory": "communities",
     "github": "https://github.com/Holo-Host/holo-communities",
     "icon": null,
-    "screenshot": null,
+    "screenshot": "https://github.com/Holo-Host/holo-communities-dna/releases/download/holoscape-bundle-v0.0.4/holo-communities.png",
     "description": "Communities app allows you to publish, read, comment on content, as well as message other Holochain users"
   }
 ]
