@@ -24,6 +24,14 @@
     "description": "A clean UI that connects to HoloFuel, the micro-currency that powers the Holo Hosting network"
   },
   {
+    "name": "__holo.txt",
+    "directory": "holotxt",
+    "github": "https://github.com/kristoferlund/holotxt",
+    "icon": null,
+    "screenshot": "https://user-images.githubusercontent.com/9698363/71314686-61cb0c00-244d-11ea-9429-2dd0e7c7d701.png",
+    "description": "Proof of concept Holochain app showcasing simple collaborative notes editing."
+  },
+  {
     "name": "Passthrough DNA",
     "directory": "passthrough-dna",
     "github": "https://github.com/holochain/passthrough-dna",
