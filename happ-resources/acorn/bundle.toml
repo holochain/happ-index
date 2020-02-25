@@ -10,11 +10,11 @@ dna_hash = "QmSLv6W1MCw7PBN1KKvfWcMwengFeVFXaqHVcEfh1HE76N"
 uri = "https://github.com/h-be/acorn-hc/releases/download/v0.0.2/acorn.dna.json"
 
 [[UIs]]
-name = "Acorn UI"
+name = "Acorn"
 id = "acorn-ui"
 ui_bundle_hash = "Qm34abcde"
 # Optional, might also be retrieved from hchc via hash long-term
-uri = "https://github.com/Connoropolous/redesigned-disco/raw/master/acorn-ui.zip"
+uri = "https://github.com/h-be/acorn-ui/releases/download/v0.1.0/acorn-ui-v0.1.0.zip"
 
 [[UIs.instance_references]]
 ui_handle = "acorn"
