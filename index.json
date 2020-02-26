@@ -46,5 +46,13 @@
     "icon": null,
     "screenshot": "https://raw.githubusercontent.com/holochain/peer-chat/develop/doc/screen.png",
     "description": "A simple chat app designed to get new users up, running and developing on Holochain"
+  },
+  {
+    "name": "Acorn",
+    "directory": "acorn",
+    "github": "https://github.com/h-be/acorn-docs",
+    "icon": "https://github.com/h-be/acorn-ui/blob/master/dist/logo/acorn-logo-desktop-512px%402x.png",
+    "screenshot": "https://i.imgur.com/2LreFT4.png",
+    "description": "Acorn is a way of organizing intended Goals and Outcomes in tree-like structures. You can think of it as a virtual whiteboard for collaborative planning."
   }
 ]
