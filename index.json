@@ -16,14 +16,6 @@
     "description": "A fork of peer-chat that aims to keep everything as basic as possible. Removes the identity management and private channels features to help with debugging."
   },
   {
-    "name": "HoloFuel",
-    "directory": "holofuel",
-    "github": "https://github.com/Holo-Host/hp-admin",
-    "icon": null,
-    "screenshot": "https://lh5.googleusercontent.com/sxk53rtSZTc3Ct1i59T-elhDbEVuyEMpHjW6bkZN1UyXLkQUcYEpegTTSJMEsIgo-FFXC-hsjymjsjK1WFsdwovPkgfVWLnPAZ7mWtgzhhVsDlig4iawsbn3RnkQsX-3LUOsFA9B",
-    "description": "A clean UI that connects to HoloFuel, the micro-currency that powers the Holo Hosting network"
-  },
-  {
     "name": "__holo.txt",
     "directory": "holotxt",
     "github": "https://github.com/kristoferlund/holotxt",
