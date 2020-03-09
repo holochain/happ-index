@@ -5,7 +5,7 @@ bridges = []
 [[instances]]
 name = "Acorn"
 id = "__acorn"
-dna_hash = "QmSLv6W1MCw7PBN1KKvfWcMwengFeVFXaqHVcEfh1HE76N"
+dna_hash = "QmS413ABuinGJCPS4khsqZoessHaQ2UbEK3gPMzv82scXs"
 # Optional, might also be retrieved from hchc via hash long-term
 uri = "https://github.com/h-be/acorn-hc/releases/download/v0.2.1/acorn.dna.json"
 
