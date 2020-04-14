@@ -32,14 +32,6 @@
     "description": "This is the simplest hApp possible - and it is meant for testing Holochain itself, interactively. The DNA passes-through the HDK's API functions as zome functions so that hdk::commit_entry and hdk::get_links can be called directly from the UI. If installed with an admin interface it also renders all the internal redux actions that the Holochain instance processes."
   },
   {
-    "name": "Peer Chat",
-    "directory": "peer-chat",
-    "github": "https://github.com/holochain/peer-chat",
-    "icon": null,
-    "screenshot": "https://raw.githubusercontent.com/holochain/peer-chat/develop/doc/screen.png",
-    "description": "A simple chat app designed to get new users up, running and developing on Holochain"
-  },
-  {
     "name": "Acorn",
     "directory": "acorn",
     "github": "https://github.com/h-be/acorn-docs",
