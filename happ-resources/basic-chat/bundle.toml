@@ -3,14 +3,14 @@ bridges = []
 [[instances]]
 name = "Basic Chat Public"
 id = "__basic-chat-public"
-dna_hash = "QmXWUEQwuoG7TqNBMy6GZT9eP83BsY25juLm1zqzmGgHVw"
-uri = "https://github.com/holochain/basic-chat/releases/download/v0.1.2/basic-chat.dna.json"
+dna_hash = "Qma5ncMshmqxrmAWTVg5Yc65rsvv52TFj7PZpyhC8r6xd1"
+uri = "https://github.com/holochain/basic-chat/releases/download/v0.1.4/basic-chat.dna.json"
 
 [[UIs]]
 name = "Basic Chat"
 id = "basic-chat-ui"
 ui_bundle_hash = "Qm34abcde"
-uri = "https://github.com/holochain/basic-chat/releases/download/v0.1.2/ui.zip"
+uri = "https://github.com/holochain/basic-chat/releases/download/v0.1.4/ui.zip"
 
 [[UIs.instance_references]]
 ui_handle = "basic-chat"
