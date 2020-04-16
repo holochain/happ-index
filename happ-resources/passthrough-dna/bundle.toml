@@ -12,6 +12,7 @@ uri = "https://github.com/holochain/passthrough-dna/releases/download/v0.0.8/pas
 
 [[UIs]]
 name = "Passthrough Test hApp"
+id = "passthrough"
 uri = "https://github.com/holochain/passthrough-dna/releases/download/v0.0.8/ui.zip"
 
 [[UIs.instance_references]]
