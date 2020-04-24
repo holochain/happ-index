@@ -6,13 +6,14 @@ bridges = []
 [[instances]]
 name = "Passthrough"
 id = "instance"
-dna_hash = "QmZ1z6SKKeG53RQWwma7k644GUaX2dj4v5HEEGTs8ScRyJ"
-uri = "https://github.com/holochain/passthrough-dna/releases/download/v0.0.6/passthrough-dna.dna.json"
+dna_hash = "QmcjoGNWszyb9pbZEXkj9Ujk8vpycRL47VqTSjfvrU4JVs"
+uri = "https://github.com/holochain/passthrough-dna/releases/download/v0.0.8/passthrough-dna.dna.json"
 
 
 [[UIs]]
 name = "Passthrough Test hApp"
-uri = "https://github.com/holochain/passthrough-dna/releases/download/v0.0.6/ui.zip"
+id = "passthrough"
+uri = "https://github.com/holochain/passthrough-dna/releases/download/v0.0.8/ui.zip"
 
 [[UIs.instance_references]]
 ui_handle = "test-instance"

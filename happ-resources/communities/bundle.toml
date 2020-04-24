@@ -3,12 +3,12 @@ bridges = []
 [[instances]]
 name = "Communities"
 id = "__communities"
-dna_hash = "QmenFuc6Mh3xLGF6NVLdv6A6RABa3FGNdBs4xu7VPZLQuU"
-uri = "https://github.com/Holo-Host/holo-communities-dna/releases/download/holoscape-bundle-v0.0.4/holo-communities.dna.json"
+dna_hash = "QmfAi6wBzvRzMwU343L1YWR9f1uPGmFuzHUJYdJyNKtQFs"
+uri = "https://github.com/Holo-Host/holo-communities/releases/download/0.0.6/holo-communities-dna.dna.json"
 
 [[UIs]]
 name = "Communities"
-uri = "https://github.com/Holo-Host/holo-communities-dna/releases/download/holoscape-bundle-v0.0.4/holo-communities.zip"
+uri = "https://github.com/Holo-Host/holo-communities/releases/download/0.0.6/holo-communities.zip"
 
 [[UIs.instance_references]]
 ui_handle = "__communities"

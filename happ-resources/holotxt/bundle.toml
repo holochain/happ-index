@@ -3,14 +3,14 @@ bridges = []
 [[instances]]
 name = "holotxt"
 id = "holotxt_instance"
-dna_hash = "QmTXsdZR3YnNsn87WVdXcQTZGmqNyBv8ubKaKGYnz3nsNb"
-uri = "https://github.com/kristoferlund/holotxt/releases/download/v0.0.2/holotxt_dna.dna.json"
+dna_hash = "QmPAJK4YugqgrnCnQ2Y6CS3R2HyYU1ADVABQUBq9NcWN5y"
+uri = "https://github.com/kristoferlund/holotxt/releases/download/v0.0.3/holotxt_dna.dna.json"
 
 [[UIs]]
 name = "holotxt"
 id = "holotxt_id" 
 ui_bundle_hash = "Qm34abcde"
-uri = "https://github.com/kristoferlund/holotxt/releases/download/v0.0.2/ui.zip"
+uri = "https://github.com/kristoferlund/holotxt/releases/download/v0.0.3/ui.zip"
 
 [[UIs.instance_references]]
 ui_handle = "holotxt"

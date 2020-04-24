@@ -6,6 +6,10 @@ It is meant to function as a short term interim solution until the decentralized
 [Holoscape](https://github.com/holochain/holoscape) downloads the file [index.json](index.json) to acquire the full list of hApps and renders a card with description and screenshot for each.
 Chooses the user to install a hApp, Holoscape also downloads the `bundle.toml` file from the hApp's resources directory in this repository which has links to all the hApp's assets (i.e. DNA files and zipped UIs).
 
+## A note on versions
+
+We tag commits in this repo that are compatible for particular version of holochain like this: `hc-v0.0.47-alpha1` and, in the short term attempt to make sure that hApps in the index work with the given version of holochain (and the holoscape version that includes that holochain version), but please note that we can't guarantee that all the hApps work perfectly with the given version.
+
 ## Publishing a hApp
 If you want to make your hApp available to the public during this alpha phase for testing, you can do so by creating a pull-request to this repository.
 Once it's merged it will appear in the list of hApps inside Holoscape.
