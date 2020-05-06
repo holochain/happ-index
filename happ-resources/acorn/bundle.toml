@@ -3,19 +3,26 @@ bridges = []
 # A declaration of an instance that this hApp needs to have installed.
 # `name` here is just an internal name to reference the given DNA inside the rest of this bundle.
 [[instances]]
-name = "Acorn"
+name = "acorn-profiles-instance"
 id = "__acorn"
-dna_hash = "QmSLv6W1MCw7PBN1KKvfWcMwengFeVFXaqHVcEfh1HE76N"
+dna_hash = "QmeRu5hx5pmn8kuHLPpxFkTv9Ew1HUr5c1cvDqHJuiBMxv"
 # Optional, might also be retrieved from hchc via hash long-term
-uri = "https://github.com/h-be/acorn-hc/releases/download/v0.0.2/acorn.dna.json"
+uri = "https://github.com/h-be/acorn-hc/releases/download/v0.3.2/profiles.dna.json"
+
+[[instances]]
+name = "Acorn-projects-template"
+id = "__acorn_projects_template"
+dna_hash = "QmSBCuE94MdSXXpMrvn8UA1CpNsXqfh37YhMU3SsiKMh46"
+# Optional, might also be retrieved from hchc via hash long-term
+uri = "https://github.com/h-be/acorn-hc/releases/download/v0.3.2/projects.dna.json"
 
 [[UIs]]
 name = "Acorn"
 id = "acorn-ui"
 ui_bundle_hash = "Qm34abcde"
 # Optional, might also be retrieved from hchc via hash long-term
-uri = "https://github.com/h-be/acorn-ui/releases/download/v0.1.0/acorn-ui-v0.1.0.zip"
+uri = "https://github.com/h-be/acorn-ui/releases/download/v0.3.4/acorn-ui.zip"
 
 [[UIs.instance_references]]
-ui_handle = "acorn"
+ui_handle = "acorn-profiles-instance" # sets an alias but just match it to instance:name property
 instance_id = "__acorn"

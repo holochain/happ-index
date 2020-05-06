@@ -32,11 +32,11 @@
     "description": "This is the simplest hApp possible - and it is meant for testing Holochain itself, interactively. The DNA passes-through the HDK's API functions as zome functions so that hdk::commit_entry and hdk::get_links can be called directly from the UI. If installed with an admin interface it also renders all the internal redux actions that the Holochain instance processes."
   },
   {
-    "name": "Acorn",
+    "name": "Acorn (Use Admin!)",
     "directory": "acorn",
     "github": "https://github.com/h-be/acorn-docs",
     "icon": "https://github.com/h-be/acorn-ui/blob/master/dist/logo/acorn-logo-desktop-512px%402x.png",
     "screenshot": "https://i.imgur.com/2LreFT4.png",
-    "description": "Acorn is a way of organizing intended Goals and Outcomes in tree-like structures. You can think of it as a virtual whiteboard for collaborative planning."
+    "description": "STOP! Don't click INSTALL! First, click 'Show Bundle Contents', then check 'Install with admin interface?'. THEN click 'INSTALL'. Acorn is a way of organizing intended Goals and Outcomes in tree-like structures. You can think of it as a virtual whiteboard for collaborative planning."
   }
 ]
